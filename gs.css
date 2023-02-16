@@ -32,11 +32,24 @@ table {
   }
   s
   td, th {
-    border: 1px solid #ff0000;
+    border: 1px solid #6b0c0c;
     text-align: left;
     padding: 8px;
   }
   
   tr:nth-child(even) {
-    background-color: #e07777;
+    background-color: #6c0e4b;
   }
+  .joel:hover {
+    background-color: rgb(212, 0, 255);
+    color: rgb(7, 7, 80);
+    border-style: double;
+    border-left: 10px solid rgb(11, 73, 85);
+    }
+    .andrew:hover {
+    background-color: rgb(70, 158, 15);
+    color: rgb(158, 104, 12);
+    border-style: double;
+    border-left: 10px solid rgb(198, 17, 32);
+    }
+   
